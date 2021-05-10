@@ -15,3 +15,6 @@ The repo contain ML projects completed by me for academic, self learning, and ho
 
 	_Tools: scikit-learn, Pandas, Seaborn, Matplotlib, Pygame_ 
 
+I also dabble in all other technology. You can access by complete portfolio here
+
+If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, shoot an email at gurjeet333@gmail.com
