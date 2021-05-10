@@ -1,4 +1,4 @@
-- #Machine Learning
+# Machine Learning
 
 	- [Abalone Dataset](https://github.com/hargurjeet/MachineLearning/blob/Abalone-Dataset/Abalone_Dataset_Analysis.ipynb): A regression model to predict the age of abalone on the given objective measures. 
 	- [Bank Note Dateset](https://github.com/hargurjeet/MachineLearning/blob/Bank-Note-Dataset/Bank_Note_Analysis.ipynb): The Banknote Dataset involves predicting whether a given banknote is authentic given a number of measures taken from a photograph.It is a binary (2-class) classification problem. The number of observations for each class is not balanced. There are 1,372 observations with 4 input variables and 1 output variable.
