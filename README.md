@@ -1,5 +1,7 @@
 # Machine Learning
 
+- ### Following are the list of projects
+
 	- [Abalone Dataset](https://github.com/hargurjeet/MachineLearning/blob/Abalone-Dataset/Abalone_Dataset_Analysis.ipynb): A regression model to predict the age of abalone on the given objective measures. 
 	- [Bank Note Dateset](https://github.com/hargurjeet/MachineLearning/blob/Bank-Note-Dataset/Bank_Note_Analysis.ipynb): The Banknote Dataset involves predicting whether a given banknote is authentic given a number of measures taken from a photograph.It is a binary (2-class) classification problem. The number of observations for each class is not balanced. There are 1,372 observations with 4 input variables and 1 output variable.
 	- [Swedish Auto Insurance Dataset](https://github.com/hargurjeet/MachineLearning/blob/Swedish-Auto-Insurance-Dataset/Swedish_Auto_Insurance_Dataset.ipynb): The Swedish Auto Insurance Dataset involves predicting the total payment for all claims in thousands of Swedish Kronor, given the total number of claims.It is a regression problem.The model performance of predicting the mean value is an RMSE of approximately 118 thousand Kronor.
