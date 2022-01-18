@@ -2,6 +2,11 @@
 
 The repo contain ML projects completed by me for academic, self learning, and hobby purposes. Presented in the form of iPython Notebooks markdown files.
 
+- Time Series forcasting - Nifty 50 Price analysis([<img src="https://img.icons8.com/fluency/48/000000/code.png"/>](https://github.com/hargurjeet/MachineLearning/blob/master/Nifty_50_Time_Series_Forecasting.ipynb), [<img src="https://img.icons8.com/office/40/000000/blog.png"/>](https://gurjeet333.medium.com/time-series-forecasting-using-auto-arima-prophet-lightgbm-6362ef486c95)): 
+	- Build insights from 20 years of price history and trading volumes data of Nifty 50 stocks traded in Indian stock market.
+	- Implemented moving averages techniques, augmented Dickey Fuller Test and stationarity conversion techniques.
+	- Implemented and build model using Arima and Prophet and evaluated their performances considering RMSE and MEA errors.
+
 - Car Quality Detection ([<img src="https://img.icons8.com/fluency/48/000000/code.png"/>](https://nbviewer.jupyter.org/github/hargurjeet/MachineLearning/blob/master/Used_Car_Quality_Detection.ipynb#top), [<img src="https://img.icons8.com/office/40/000000/blog.png"/>](https://blog.jovian.ai/machine-learning-with-python-implementing-xgboost-and-random-forest-fd51fa4f9f4c)): 
 
 	- Problem Statement: One of the biggest challenges of an auto dealership purchasing a used car at an auto auction is the risk of that the vehicle might have serious issues that prevent it from being sold to customers.The challenge of this competition is to predict if the car purchased at the Auction is a Kick (bad buy).
